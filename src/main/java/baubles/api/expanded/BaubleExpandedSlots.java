@@ -11,7 +11,7 @@ public class BaubleExpandedSlots {
 
 	//The total number of slots that can be added.
 	//Please keep in mind that increases to this limit are possible with minimal changes.
-	public static final int slotLimit = 20;
+	public static final int slotLimit = 36;
 
 	//The type used in place of null.
 	public static final String invalidType = "";
